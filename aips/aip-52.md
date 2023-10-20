@@ -39,7 +39,7 @@ Proposed process:
 
 ## Reference Implementation
 
-TBD
+https://github.com/aptos-labs/aptos-core/pull/10423
 
 ## Testing (Optional)
 
